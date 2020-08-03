@@ -1,5 +1,7 @@
 # Technicolor TC7200.20 / TC7200.U
 
+**This information is from 2016, and might be outdated, but some of this stuff applies to current devices as well**
+
 Random notes on the firmware of the Technicolor cable modem we've
 all learned to hate.
 
