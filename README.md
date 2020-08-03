@@ -448,7 +448,7 @@ Destination image
 
 To ignore bad CRC:
 
-w 83F87630 0
+`w 83F87630 0`
 
 #### eCos
 
@@ -481,7 +481,9 @@ Enabling serial console from successful telnet login:
 ThomBfcNonVolSettings:
 
 # TWG850
-
+Telnet:
+```
 1.3.6.1.4.1.4491.2.4.1.1.2.2.0 = user
 1.3.6.1.4.1.4491.2.4.1.1.2.3.0 = pw
 1.3.6.1.4.1.4491.2.4.1.1.2.4.0 = enable
+```
