@@ -11,7 +11,7 @@ A few bits of information are strewn accros the interwebs:
 * http://pastebin.com/E9MtQpb9
 * https://news.ycombinator.com/item?id=7584466
 * https://hackaday.io/project/3441-technicolor-tc7200-cable-modem
-* https://wikidevi.com/wiki/Technicolor_TC7200
+* https://deviwiki.com/wiki/Technicolor_TC7200_(Thomson)
 
 **WARNING** Tinkering with your cable modem is likely against your
 ISP's TOS. Used units can often be found on eBay.
